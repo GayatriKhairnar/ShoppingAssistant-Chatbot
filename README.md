@@ -19,10 +19,11 @@ A smart chatbot powered by **Dialogflow Essentials** to help users place and tra
 ## 📷 Screenshots
 
 ### 1️⃣ Intent Configuration in Dialogflow  
-![Intents Screenshot](images/intents.png)  
+![image](https://github.com/user-attachments/assets/7d18015e-0025-4c74-8faf-f6646a82393f)
 
 ### 2️⃣ Chatbot in Action  
-![Chatbot Conversation](images/chatbot_demo.png)  
+![image](https://github.com/user-attachments/assets/ae563049-7bea-40f5-8f09-18a6577ca4f9)
+![image](https://github.com/user-attachments/assets/ed1a5760-201f-4e59-bd06-7b1a501d9e25)
 
 ## 🛠️ Setup & Installation
 
@@ -39,10 +40,9 @@ A smart chatbot powered by **Dialogflow Essentials** to help users place and tra
    git clone https://github.com/your-username/shopping-assistant-chatbot.git
    cd shopping-assistant-chatbot
 
-![image](https://github.com/user-attachments/assets/7d18015e-0025-4c74-8faf-f6646a82393f)
 
-![image](https://github.com/user-attachments/assets/ae563049-7bea-40f5-8f09-18a6577ca4f9)
-![image](https://github.com/user-attachments/assets/ed1a5760-201f-4e59-bd06-7b1a501d9e25)
+
+
 
 
 
